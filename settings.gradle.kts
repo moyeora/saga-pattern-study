@@ -1,1 +1,1 @@
-rootProject.name = "saga-pattern"
+rootProject.name = "saga-pattern-study"
